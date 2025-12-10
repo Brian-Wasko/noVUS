@@ -1,0 +1,5 @@
+{
+  "name": "noVUS",
+  "description": "A React-based bioinformatics pipeline for mapping human genes to yeast orthologs, analyzing conservation of variants, and generating experimental plans using Gemini.",
+  "requestFramePermissions": []
+}
